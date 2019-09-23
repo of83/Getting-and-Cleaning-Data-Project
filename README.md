@@ -4,15 +4,17 @@ The purpose of this project is to demonstrate the ability to collect, work with 
 
 It's required to submit:
 
-1. a tidy data set as described below,
+1. a tidy data set,
 2. a link to a Github repository with the script for performing the analysis,
-3. a code book that describes the variables, the data, and any transformations or work performed to clean up the data called CodeBook.md
+3. a code book that describes the variables, the data and any transformations or work performed to clean up the data called CodeBook.md
 
 A README.md should be included in the repo with the scripts. This repo explains how all of the scripts work and how they are connected.
 
-Here are the data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+# Data for the project
 
-Objective: create one R script called run_analysis.R that does the following:
+	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+# Objective: create one R script called run_analysis.R that does the following:
 
 	1. Merges the training and the test sets to create one data set.
 	2. Extracts only the measurements on the mean and standard deviation for each measurement.
