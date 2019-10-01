@@ -1,13 +1,15 @@
 This code book describes the variables, the data and any transformations or work performed to clean up the initial data.
 
-The purpose of this project is to demonstrate the ability to collect, work with and clean a data set. The goal is to prepare tidy data (tidy_Data.txt) that can be used for later analysis. 
+The purpose of this project is to demonstrate the ability to collect, work with and clean a data set. The goal is to prepare tidy data ([tidy_Data.txt](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/tidy_Data.txt)) that can be used for later analysis. 
 
 This Github repository contains:
 
-1. a tidy data set (tidy_Data.txt),
-2. a script for performing the analysis (run_analysis.R),
-3. a code book (CodeBook.md) that describes the variables, the data and any transformations or work performed to clean up the initial data,
-4. a README.md. This repo explains how all of the scripts work and how they are connected.
+1. a tidy data set ([tidy_Data.txt](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/tidy_Data.txt)),
+2. a script for performing the analysis ([run_analysis.R](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R)),
+3. a code book ([CodeBook.md](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md)) that describes the variables, the data and any transformations or work performed to clean up the initial data,
+4. a [README.md](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/README.md).
+
+This repository explains how all of the scripts work and how they are connected.
 
 The data used in this project represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
@@ -17,7 +19,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The R script, run_analysis.R, does the following:
+The R script, [run_analysis.R](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R), does the following:
 
 1. Merge the training and the test sets to create one data set,
 2. Extract only the measurements on the mean and standard deviation for each measurement,
