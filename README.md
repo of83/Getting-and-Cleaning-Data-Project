@@ -4,13 +4,12 @@ The purpose of this project is to demonstrate the ability to collect, work with 
 
 It's required to submit:
 
-1. a tidy data set with one R script (run_analysis.R) that does the following:
+1. a tidy data (tidy_Data.txt) set with one R script (run_Analysis.R) that does the following:
 	1. Merges the training and the test sets to create one data set,
 	2. Extracts only the measurements on the mean and standard deviation for each measurement,
 	3. Uses descriptive activity names to name the activities in the data set,
 	4. Appropriately labels the data set with descriptive variable names,
 	5. From the data set in step iv, creates a second, independent tidy data set with the average of each variable for each activity and each subject,
 2. a link to a Github repository with the script for performing the analysis,
-3. a code book that describes the variables, the data and any transformations or work performed to clean up the data called CodeBook.md
-
-A README.md should be included in the repo with the scripts. This repo explains how all of the scripts work and how they are connected.
+3. a code book (CodeBook.md) that describes the variables, the data and any transformations or work performed to clean up the data,
+4. a README.md that explains how all of the scripts work and how they are connected.
