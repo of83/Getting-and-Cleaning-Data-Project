@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Project
 
-The purpose of this project is to demonstrate the ability to collect, work with and clean a [data set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). The goal is to prepare [tidy data] (https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/tidy_Data.txt) that can be used for later analysis.
+The purpose of this project is to demonstrate the ability to collect, work with and clean a [data set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). The goal is to prepare [tidy data] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). (https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/tidy_Data.txt) that can be used for later analysis.
 
 It's required to submit:
 
