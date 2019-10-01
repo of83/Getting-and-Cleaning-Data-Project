@@ -4,7 +4,7 @@ The purpose of this project is to demonstrate the ability to collect, work with 
 
 It's required to submit:
 
-1. a tidy data ([tidy_Data.txt](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/tidy_Data.txt)) set with one R script ([run_Analysis.R](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/run_Analysis.R)) that does the following:
+1. a tidy data ([tidy_Data.txt](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/tidy_Data.txt)) set with one R script ([run_analysis.R](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R)) that does the following:
 	1. Merges the training and the test sets to create one data set,
 	2. Extracts only the measurements on the mean and standard deviation for each measurement,
 	3. Uses descriptive activity names to name the activities in the data set,
