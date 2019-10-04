@@ -16,6 +16,3 @@ It's required to submit:
 
 
 <sup>1</sup> The "meanFreq()" variables corresponding to the weighted average of the frequency components to obtain a mean frequency were not taken into account here on purpose. Only the "mean()" variables, mean value, and the "std()" variables, standard deviation, are taken into account in this step of the whole process.
-<div class="text-red mb-2">
-  .text-red on white
-</div>
