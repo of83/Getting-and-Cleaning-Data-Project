@@ -49,7 +49,7 @@ In order to perform the above actions, the following steps are required:
 	1.5. Combine the 2 above resulting data sets (trainData, testData) by row
 		-> allData contains 10299 rows and 563 columns
 
-### 2. Extract only the measurements on the mean(1) and standard deviation for each measurement:
+### 2. Extract only the measurements on the mean<sup>1</sup> and standard deviation for each measurement:
 
 	2.1. Load feature names, 2nd column of the features.txt file, into R
 	2.2. Load feature identifiers, 1st column of the features.txt file, into R
@@ -59,7 +59,7 @@ In order to perform the above actions, the following steps are required:
 		-> selectedData contains 10286 rows and 68 columns
 	2.5. Assign descriptive column headers to the selectedData data set (#1 being the subject ID, #2, the activity type, the other columns the mean and standard deviation previously selected)
 
-	(1) The "meanFreq()" variables corresponding to the weighted average of the frequency components to obtain a mean frequency were not taken into account here on purpose. Only the "mean()" variables, mean value, and the "std()" variables, standard deviation, are taken into account in this step of the whole process.
+<sup>1</sup> The "meanFreq()" variables corresponding to the weighted average of the frequency components to obtain a mean frequency were not taken into account here on purpose. Only the "mean()" variables, mean value, and the "std()" variables, standard deviation, are taken into account in this step of the whole process.
 
 ### 3. Use descriptive activity names to name the activities in the data set:
 
