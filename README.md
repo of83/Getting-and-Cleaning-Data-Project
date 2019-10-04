@@ -6,7 +6,7 @@ It's required to submit:
 
 1. a tidy data ([tidy_Data.txt](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/tidy_Data.txt)) set with one R script ([run_analysis.R](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R)) that does the following:
 	1. Merges the training and the test sets to create one data set,
-	2. Extracts only the measurements on the mean(1) and standard deviation for each measurement,
+	2. Extracts only the measurements on the mean<sup>1</sup> and standard deviation for each measurement,
 	3. Uses descriptive activity names to name the activities in the data set,
 	4. Appropriately labels the data set with descriptive variable names,
 	5. From the data set in step iv, creates a second, independent tidy data set with the average of each variable for each activity and each subject,
@@ -15,4 +15,4 @@ It's required to submit:
 4. a readme ([README.md](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/README.md)) that explains how all of the scripts work and how they are connected.
 
 
-(1) The "meanFreq()" variables corresponding to the weighted average of the frequency components to obtain a mean frequency were not taken into account here on purpose. Only the "mean()" variables, mean value, and the "std()" variables, standard deviation, are taken into account in this step of the whole process.
+<sup>1</sup> The "meanFreq()" variables corresponding to the weighted average of the frequency components to obtain a mean frequency were not taken into account here on purpose. Only the "mean()" variables, mean value, and the "std()" variables, standard deviation, are taken into account in this step of the whole process.
