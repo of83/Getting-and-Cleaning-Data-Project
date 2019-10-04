@@ -15,6 +15,6 @@ It's required to submit:
 4. a readme ([README.md](https://github.com/of83/Getting-and-Cleaning-Data-Project/blob/master/README.md)) that explains how all of the scripts work and how they are connected.
 
 
-<div class="text-red">
+<div class="text-red mb-2">
 <sup>1</sup> The "meanFreq()" variables corresponding to the weighted average of the frequency components to obtain a mean frequency were not taken into account here on purpose. Only the "mean()" variables, mean value, and the "std()" variables, standard deviation, are taken into account in this step of the whole process.
 </div>
